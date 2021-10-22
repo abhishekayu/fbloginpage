@@ -14,6 +14,8 @@ CSS
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][2]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][3]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][4]
+[<img align="left" alt="HTML" width="26px" src="https://user-images.githubusercontent.com/64314222/138457332-55cca9c6-5459-4bcf-8dac-f0334b3524b5.png" />][4]
+[<img align="left" alt="HTML" width="26px" src="https://user-images.githubusercontent.com/64314222/138457891-15c5920f-eac6-4c08-8896-9b0cccb36458.png" />][4]
 
 <br />
 <br />
