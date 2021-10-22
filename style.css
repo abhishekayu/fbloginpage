@@ -1,0 +1,106 @@
+.fb2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #f0f2f5;
+}
+
+.boxed {
+    background-color: white;
+    border-radius: 8px;
+    margin: 40px;
+    padding: 20px;
+    width: 350px;
+    height: 300px;
+    box-shadow: 1px 1px 2px 2px rgb(221, 220, 220);
+}
+
+#lname {
+    border: 1px solid rgb(161, 160, 160);
+    border-radius: 6px;
+    width: 350px;
+    height: 45px;
+    outline: none;
+    font-size: larger;
+    opacity: 70%;
+}
+
+#b1 {
+    border: 1px solid rgb(161, 160, 160);
+    background-color: rgba(0, 47, 255, 0.726);
+    font-size: 22px;
+    color: white;
+    height: 50px;
+    width: 350px;
+    border-radius: 5px;
+    font-family: Helvetica, Arial, sans-serif;
+    outline: none;
+}
+
+#lik {
+    text-decoration: none;
+    padding: 20px;
+    margin-left: 89px;
+    color: rgba(25, 163, 255, 0.911);
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+#b2 {
+    border: 1px solid rgb(161, 160, 160);
+    background-color: rgba(21, 189, 29, 0.932);
+    font-size: 18px;
+    color: white;
+    margin: 10px;
+    height: 45px;
+    width: 200px;
+    margin-left: 75px;
+    font-family: Helvetica, Arial, sans-serif;
+    border-radius: 5px;
+}
+
+h1 {
+    color: rgba(0, 47, 255, 0.726);
+    font-size: 60px;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 80px;
+    margin-top: -10px
+}
+
+#in {
+    margin-top: -40px;
+    font-size: 25px;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 80px;
+    margin-top: -20px
+}
+
+.down {
+    margin-top: 40px;
+    margin-left: 30px;
+    font-size: 14px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#pd {
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#lname:focus {
+    border: 1.4px solid rgb(4, 42, 255);
+    opacity: 40%;
+}
+
+#b1:focus {
+    background-color: rgba(11, 34, 240, 0.726);
+}
+
+#b2:focus {
+    background-color: rgba(27, 163, 34, 0.932);
+}
