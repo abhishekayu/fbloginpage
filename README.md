@@ -6,6 +6,7 @@ HTML
 ```
 CSS
 ```
+<img width="500" alt="Screenshot 2021-10-22 182158" src="https://user-images.githubusercontent.com/64314222/138456690-ae55cdf9-74e8-4dee-a660-ddc2a2e9f942.png">
 
 ### Languages and Tools:
 
